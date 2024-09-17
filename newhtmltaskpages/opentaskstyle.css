@@ -1,0 +1,238 @@
+.property {
+    display: flex;
+    flex-direction: column;
+    width: 690px;
+    height: 392px;
+    align-items: flex-start;
+    gap: 27px;
+    position: relative;
+  }
+  
+  .property .open {
+    display: flex;
+    flex-wrap: wrap;
+    height: 392px;
+    align-items: flex-end;
+    gap: 18px 24px;
+    padding: 26px 11px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    border-radius: 10px;
+    background: linear-gradient(180deg, rgb(221.12, 228.16, 240.12) 0%, rgb(174.41, 186.94, 208.25) 100%);
+    background-color: var(--collection-1-lightblue3);
+  }
+  
+  .property .frame {
+    width: 560px;
+    align-items: center;
+    gap: 175px;
+    margin-top: -13px;
+    display: flex;
+    position: relative;
+  }
+  
+  .property .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Figtree-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--collection-1-red3);
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .property .arrow {
+    position: relative;
+    width: 22.09px;
+    height: 12.55px;
+    margin-right: -57.05px;
+  }
+  
+  .property .div {
+    flex-direction: column;
+    width: 427px;
+    align-items: flex-start;
+    gap: 17px;
+    display: flex;
+    position: relative;
+  }
+  
+  .property .group {
+    position: relative;
+    width: 429px;
+    height: 47px;
+    margin-right: -2px;
+  }
+  
+  .property .overlap-group {
+    position: relative;
+    width: 427px;
+    height: 47px;
+    background-color: var(--collection-1-purple32);
+    border-radius: 5px;
+    box-shadow: inset 0px 4px 4px #00000040;
+  }
+  
+  .property .text-wrapper-2 {
+    position: absolute;
+    top: 9px;
+    left: 14px;
+    font-family: "Figtree-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .property .overlap-wrapper {
+    position: relative;
+    width: 429px;
+    height: 210px;
+    margin-right: -2px;
+  }
+  
+  .property .overlap {
+    width: 427px;
+    height: 210px;
+    box-shadow: inset 0px 4px 4px #00000040;
+    position: relative;
+    background-color: var(--collection-1-purple32);
+    border-radius: 5px;
+  }
+  
+  .property .text-wrapper-3 {
+    position: absolute;
+    width: 133px;
+    top: 18px;
+    left: 14px;
+    font-family: "Figtree-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .property .frame-2 {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 29px 14px;
+    flex: 1;
+    flex-grow: 1;
+    display: flex;
+    position: relative;
+  }
+  
+  .property .overlap-group-wrapper {
+    position: relative;
+    width: 205px;
+    height: 47px;
+  }
+  
+  .property .div-wrapper {
+    width: 203px;
+    height: 47px;
+    box-shadow: inset 0px 4px 4px #00000040;
+    position: relative;
+    background-color: var(--collection-1-purple32);
+    border-radius: 5px;
+  }
+  
+  .property .text-wrapper-4 {
+    position: absolute;
+    width: 134px;
+    top: 9px;
+    left: 9px;
+    font-family: "Figtree-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .property .text-wrapper-5 {
+    position: absolute;
+    width: 129px;
+    top: 10px;
+    left: 9px;
+    font-family: "Figtree-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .property .text-wrapper-6 {
+    position: absolute;
+    width: 143px;
+    top: 9px;
+    left: 9px;
+    font-family: "Figtree-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .property .group-2 {
+    position: relative;
+    width: 97px;
+    height: 47px;
+  }
+  
+  .property .overlap-2 {
+    width: 95px;
+    height: 47px;
+    box-shadow: 0px 4px 4px #00000040;
+    position: relative;
+    background-color: var(--collection-1-purple32);
+    border-radius: 5px;
+  }
+  
+  .property .text-wrapper-7 {
+    position: absolute;
+    top: 9px;
+    left: 21px;
+    font-family: "Figtree-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .property .group-3 {
+    position: relative;
+    width: 96px;
+    height: 47px;
+  }
+  
+  .property .overlap-3 {
+    width: 94px;
+    height: 47px;
+    box-shadow: 0px 4px 4px #00000040;
+    position: relative;
+    background-color: var(--collection-1-purple32);
+    border-radius: 5px;
+  }
+  
+  .property .text-wrapper-8 {
+    position: absolute;
+    top: 9px;
+    left: 18px;
+    font-family: "Figtree-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  

@@ -1,0 +1,154 @@
+.sign-in {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sign-in .overlap-group-wrapper {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(206, 188, 205) 0%, rgb(104, 94.91, 103.5) 100%);
+    width: 1440px;
+    height: 876px;
+  }
+  
+  .sign-in .overlap-group {
+    position: relative;
+    width: 627px;
+    height: 685px;
+    top: 72px;
+    left: 406px;
+    background: linear-gradient(
+      180deg,
+      rgb(184.08, 190.28, 200.81) 0%,
+      rgb(111.76, 123.49, 143.44) 40.79%,
+      rgb(90.37, 124.98, 183.81) 100%
+    );
+    background-color: var(--collection-1-grey2);
+  }
+  
+  .sign-in .overlap {
+    position: absolute;
+    width: 475px;
+    height: 71px;
+    top: 158px;
+    left: 76px;
+    background-color: #ffffff;
+  }
+  
+  .sign-in .text-wrapper {
+    position: absolute;
+    width: 233px;
+    top: 13px;
+    left: 20px;
+    font-family: "Figtree-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #9f9b9b;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sign-in .div-wrapper {
+    position: absolute;
+    width: 475px;
+    height: 71px;
+    top: 271px;
+    left: 77px;
+    background-color: #ffffff;
+  }
+  
+  .sign-in .div {
+    position: absolute;
+    width: 233px;
+    top: 13px;
+    left: 19px;
+    font-family: "Figtree-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #9f9b9b;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sign-in .overlap-2 {
+    position: absolute;
+    width: 475px;
+    height: 71px;
+    top: 378px;
+    left: 77px;
+  }
+  
+  .sign-in .rectangle {
+    position: absolute;
+    width: 475px;
+    height: 71px;
+    top: 0;
+    left: 0;
+    background-color: #cebccd;
+  }
+  
+  .sign-in .text-wrapper-2 {
+    width: 112px;
+    top: 13px;
+    left: 194px;
+    color: #5e5e5e;
+    font-size: 35px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Figtree-SemiBold", Helvetica;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-in .text-wrapper-3 {
+    position: absolute;
+    width: 233px;
+    top: 59px;
+    left: 197px;
+    font-family: "Figtree-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-in .don-t-have-an {
+    position: absolute;
+    width: 263px;
+    top: 464px;
+    left: 77px;
+    font-family: "Figtree-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-in .span {
+    color: #d6d6d6;
+  }
+  
+  .sign-in .text-wrapper-4 {
+    color: #ffffff;
+  }
+  
+  .sign-in .text-wrapper-5 {
+    width: 93px;
+    top: 462px;
+    left: 383px;
+    color: #ffffff;
+    font-size: 24px;
+    position: absolute;
+    font-family: "Figtree-SemiBold", Helvetica;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
